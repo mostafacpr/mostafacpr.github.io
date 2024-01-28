@@ -8,12 +8,12 @@
 
 [4 _ V2rayNg](https://github.com/2dust/v2rayNG/releases/download/1.8.12/v2rayNG_1.8.12.apk) & [github](https://github.com/2dust/v2rayNG/releases)
 
-[Whatsapp](https://www.whatsapp.com/android?lang=fa)&
-[Telegram](https://telegram.org/dl/android/apk)&
+[Whatsapp](https://www.whatsapp.com/android?lang=fa) &
+[Telegram](https://telegram.org/dl/android/apk) &
 [Instagram](https://apkflash.com/apk/app/com.instagram.android/instagram/download) & [Instagram Lite](https://apkflash.com/apk/app/com.instagram.lite/instagram-lite)
 
-[File Manager+](https://fastfix.s3.ir-thr-at1.arvanstorage.ir/APP/Flashlight-File-Manager-Premium-3.2.2(www.farsroid.com).apk?versionId=)&
-[Smart Switch](https://apkflash.com/apk/app/com.sec.android.easyMover/smart-switch0)&
+[File Manager+](https://fastfix.s3.ir-thr-at1.arvanstorage.ir/APP/Flashlight-File-Manager-Premium-3.2.2(www.farsroid.com).apk?versionId=) &
+[Smart Switch](https://apkflash.com/apk/app/com.sec.android.easyMover/smart-switch0) &
 [Easy File Sharing](https://transfer.sh/)
 
 [bazar](cafebazaar.ir/download/bazaar.apk) & [bale](https://bale.ai/apk/bale.apk) & [Eita](eitaa.com/app/apk) & [Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)
