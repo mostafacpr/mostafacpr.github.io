@@ -20,7 +20,7 @@
 
 [Easy File Sharing](https://transfer.sh/)
 
-[bazar](cafebazaar.ir/download/bazaar.apk) & [bale](https://bale.ai/apk/bale.apk) & [Eita](eitaa.com/app/apk) & (Rubika)[cdnu5.iranlms.ir/RubX_3_0_1.apk]
+[bazar](cafebazaar.ir/download/bazaar.apk) & [bale](https://bale.ai/apk/bale.apk) & [Eita](eitaa.com/app/apk) & [Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)
 
 
 
