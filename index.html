@@ -1,14 +1,43 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<title>تاپ سایت 98</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+*{
+box-sizing: border-box;
+}
+.container{
+width: 800px;
+}
+input,select,textarea{
+width: 100%;
+margin: 0 0 10px 0;
+padding: 10px;
+}
+.btn1{
+background-color: green;
+color: #fff;
+}
+</style>
 </head>
 <body>
-<div>
 <h1>TopSite98.com</h1>
+<div class="container">
+<form action="/action_page.php" method="post">
+<label for="fname">First Name</label>
+<input type="text" id="fname" name="firstname" placeholder="Your name..">
+<label for="lname">Last Name</label>
+<input type="text" id="lname" name="lastname" placeholder="Your last name..">
+<label for="city"> city </label>
+<select id=" city " name=" city ">
+<option value="shiraz"> shiraz </option>
+<option value="tehran"> tehran </option>
+<option value="ahvaz"> ahvaz </option>
+</select>
+<label for="subject">Subject</label>
+<textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+<input class="btn1" type="submit" value="Submit">
+</form>
 </div>
-
-<div id="MyClockDisplay" class="clock" onload="showTime()"></div>
 </body>
 </html>
