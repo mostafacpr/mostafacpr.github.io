@@ -4,5 +4,5 @@
 
 [2 _ HiddifyNext برنامه آندروید](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Ircf Fregment Convertor](https://ircfspace.github.io/fragment)
 
-
+[3 _ برنامه Connectix](https://apps.irancdn.org/android/Connectix-1.3.2.apk)
 
