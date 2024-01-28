@@ -20,6 +20,19 @@
 
 [Easy File Sharing](https://transfer.sh/)
 
+[bazar](cafebazaar.ir/download/bazaar.apk) & [bale](https://bale.ai/apk/bale.apk) & [Eita](eitaa.com/app/apk) & (Rubika)[cdnu5.iranlms.ir/RubX_3_0_1.apk]
+
+
+
+
+Contact Us [Telegram](http://t.me/fastfixgsm) & [Gmail](karajfix@gmail.com)
+
+
+
+
+
+)
+
 
 
 
