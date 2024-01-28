@@ -1,5 +1,5 @@
 <!-- wp:details {"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-0"},":hover":{"color":{"text":"var:preset|color|vivid-purple"}}}}},"backgroundColor":"light-green-cyan","textColor":"ast-global-color-7"} -->
-<details class="wp-block-details has-ast-global-color-7-color has-light-green-cyan-background-color has-text-color has-background has-link-color"><summary>2 _ برنامه My VPN<br><img class="wp-image-1253" style="width: 50px;" src="https://frp.free.nf/wp-content/uploads/2023/11/myvpn-1.jpg" alt=""></summary><!-- wp:paragraph -->
+<details class="wp-block-details has-ast-global-color-7-color has-light-green-cyan-background-color has-text-color has-background has-link-color"><summary>1 _ برنامه My VPN<br><img class="wp-image-1253" style="width: 50px;" src="https://frp.free.nf/wp-content/uploads/2023/11/myvpn-1.jpg" alt=""></summary><!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
 
@@ -53,7 +53,7 @@
 <!-- /wp:details -->
 
 <!-- wp:details {"style":{"elements":{"link":{":hover":{"color":{"text":"var:preset|color|vivid-green-cyan"}}}},"color":{"background":"#f7d84ad1"}},"textColor":"ast-global-color-7"} -->
-<details class="wp-block-details has-ast-global-color-7-color has-text-color has-background" style="background-color:#f7d84ad1"><summary>1 _ برنامه Hiddify Next <br><img class="wp-image-2186" style="width: 58px;" src="https://frp.free.nf/wp-content/uploads/2023/12/hiddi.jpg" alt=""></summary><!-- wp:paragraph -->
+<details class="wp-block-details has-ast-global-color-7-color has-text-color has-background" style="background-color:#f7d84ad1"><summary>2 _ برنامه Hiddify Next <br><img class="wp-image-2186" style="width: 58px;" src="https://frp.free.nf/wp-content/uploads/2023/12/hiddi.jpg" alt=""></summary><!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
 
