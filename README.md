@@ -4,5 +4,5 @@
 
 [2 _ HiddifyNext => Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fّregment Convertor](https://ircfspace.github.io/fragment)
 
-[3 _ Connectix => Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk) & [IOS](http://testflight.apple.com/join/ATDvld9Y) [ios learn](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web) & [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip) 
+[3 _ Connectix => Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk) & [IOS](http://testflight.apple.com/join/ATDvld9Y) &  [ios  video learn](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web) & [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip) 
 
