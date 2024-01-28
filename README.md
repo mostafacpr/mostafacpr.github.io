@@ -31,7 +31,6 @@ Contact Us [Telegram](http://t.me/fastfixgsm) & [Gmail](karajfix@gmail.com)
 
 
 
-)
 
 
 
