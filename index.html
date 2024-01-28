@@ -1,43 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-*{
-box-sizing: border-box;
+.btn{
+color: white;
+padding: 12px 24px;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+cursor: pointer;
+border: 1px solid #f0fff0;
 }
-.container{
-width: 800px;
+.btn:hover{
+opacity: 0.8;
 }
-input,select,textarea{
-width: 100%;
-margin: 0 0 10px 0;
-padding: 10px;
-}
-.btn1{
-background-color: green;
-color: #fff;
-}
+
+.btn1{background-color: #4CAF50;}
+.btn2 {background-color: #008CBA;}
+.btn3 {background-color: #f44336;}
+.btn4 {background-color: #e7e7e7; color: black;}
+.btn5 {background-color: #555555;}
 </style>
 </head>
 <body>
-<h1>TopSite98.com</h1>
-<div class="container">
-<form action="/action_page.php" method="post">
-<label for="fname">First Name</label>
-<input type="text" id="fname" name="firstname" placeholder="Your name..">
-<label for="lname">Last Name</label>
-<input type="text" id="lname" name="lastname" placeholder="Your last name..">
-<label for="city"> city </label>
-<select id=" city " name=" city ">
-<option value="shiraz"> shiraz </option>
-<option value="tehran"> tehran </option>
-<option value="ahvaz"> ahvaz </option>
-</select>
-<label for="subject">Subject</label>
-<textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-<input class="btn1" type="submit" value="Submit">
-</form>
-</div>
+<h2>Button TopSite98.com</h2>
+
+<a class="btn btn1">Green</a>
+<a class="btn btn2">Blue</a>
+<a class="btn btn3">Red</a>
+<a class="btn btn4">Gray</a>
+<a class="btn btn5">Black</a>
+
 </body>
 </html>
