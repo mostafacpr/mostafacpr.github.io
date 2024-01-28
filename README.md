@@ -18,7 +18,7 @@
 
 [bazar](cafebazaar.ir/download/bazaar.apk) & [bale](https://bale.ai/apk/bale.apk) & [Eita](eitaa.com/app/apk) & [Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)
 
-
+[Ip Scanner](https://vfarid.github.io/cf-ip-scanner/)
 
 
 Contact Us [Telegram](http://t.me/fastfixgsm) & [Gmail](mailto:gfix4600@gmail.com)
