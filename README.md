@@ -16,7 +16,7 @@
 
 [File Manager+](https://fastfix.s3.ir-thr-at1.arvanstorage.ir/APP/Flashlight-File-Manager-Premium-3.2.2(www.farsroid.com).apk?versionId=)
 
-[Smart Switch](https://apkflash.com/apk/app/com.sec.android.easyMover/smart-switch0
+[Smart Switch](https://apkflash.com/apk/app/com.sec.android.easyMover/smart-switch0)
 
 [Easy File Sharing](https://transfer.sh/)
 
