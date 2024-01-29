@@ -11,7 +11,7 @@
 
 .......................................................................
 
-**2 _  HiddifyNext** → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fegment Convertor](https://ircfspace.github.io/fragment)
+**2 _  HiddifyNext** → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fregment Convertor](https://ircfspace.github.io/fragment)
 
 .......................................................................
 
