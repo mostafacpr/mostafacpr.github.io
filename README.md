@@ -19,7 +19,7 @@
 
 .......................................................................
 
-**4 _  V2rayNg** → [Android](https://github.com/2dust/v2rayNG/releases/download/1.8.12/v2rayNG_1.8.12.apk) & [github](https://github.com/2dust/v2rayNG/releases)
+**4 _  V2rayNg** → [Android](https://github.com/2dust/v2rayNG/releases/download/1.8.12/v2rayNG_1.8.12.apk) & [github](https://github.com/2dust/v2rayNG/releases) & [🎥](https://github.com/mostafacpr/connectix/blob/main/v2rayupdate.md)
 
 .......................................................................
 
