@@ -33,7 +33,7 @@
 
 [bazar](cafebazaar.ir/download/bazaar.apk) & [bale](https://bale.ai/apk/bale.apk) & [Eita](eitaa.com/app/apk) & [Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)
 
-[Ip Scanner](https://vfarid.github.io/cf-ip-scanner/)
+[Ip Scanner](https://vfarid.github.io/cf-ip-scanner/) _ [Frp Tool](https://frp.owest.ir/)
 
 
 ________________________________________
