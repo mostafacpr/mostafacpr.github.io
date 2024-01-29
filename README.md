@@ -29,7 +29,7 @@
 
 [File Manager+](https://fastfix.s3.ir-thr-at1.arvanstorage.ir/APP/Flashlight-File-Manager-Premium-3.2.2(www.farsroid.com).apk?versionId=) &
 [Smart Switch](https://apkflash.com/apk/app/com.sec.android.easyMover/smart-switch0) &
-[Easy File Sharing](https://transfer.sh/)
+[File Sharing](https://transfer.sh/) & [Share it](https://www.farsroid.com/shareit-android/)
 
 [bazar](cafebazaar.ir/download/bazaar.apk) & [bale](https://bale.ai/apk/bale.apk) & [Eita](eitaa.com/app/apk) & [Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)
 
