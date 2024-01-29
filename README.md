@@ -15,7 +15,7 @@
 
 .......................................................................
 
-**3 _  Connectix** → [Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk) & [IOS](http://testflight.apple.com/join/ATDvld9Y) & [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)  & [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
+**3 _  Connectix** [→](https://c.fix7.shop/) [Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk) & [IOS](http://testflight.apple.com/join/ATDvld9Y) & [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)  & [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
 
 .......................................................................
 
