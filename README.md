@@ -39,7 +39,7 @@
 
 —|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—
 
-Contact Us [Telegram](http://t.me/fastfixgsm) & [Gmail](mailto:gfix4600@gmail.com)       
+Contact Us → [Telegram](http://t.me/fastfixgsm) & [Gmail](mailto:gfix4600@gmail.com)       
 
 —|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—
 
