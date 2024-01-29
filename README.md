@@ -11,15 +11,15 @@
 
 .......................................................................
 
-2 _  HiddifyNext => [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fegment Convertor](https://ircfspace.github.io/fragment)
+2 _  HiddifyNext → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fegment Convertor](https://ircfspace.github.io/fragment)
 
 .......................................................................
 
-3 _  Connectix => [Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk) & [IOS](http://testflight.apple.com/join/ATDvld9Y) & [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)  & [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
+3 _  Connectix → [Android](https://apps.irancdn.org/android/Connectix-1.3.2.apk) & [IOS](http://testflight.apple.com/join/ATDvld9Y) & [Windows](https://apps.irancdn.org/windows/Connectix-1.3.2.zip)  & [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
 
 .......................................................................
 
-4 _  V2rayNg => [Android](https://github.com/2dust/v2rayNG/releases/download/1.8.12/v2rayNG_1.8.12.apk) & [github](https://github.com/2dust/v2rayNG/releases)
+4 _  V2rayNg → [Android](https://github.com/2dust/v2rayNG/releases/download/1.8.12/v2rayNG_1.8.12.apk) & [github](https://github.com/2dust/v2rayNG/releases)
 
 .......................................................................
 
