@@ -36,12 +36,11 @@
 [Ip Scanner](https://vfarid.github.io/cf-ip-scanner/)
 
 
-
-—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—
+________________________________________
 
 Contact Us → [Telegram](http://t.me/fastfixgsm) & [Gmail](mailto:gfix4600@gmail.com)       
 
-—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—|—
+________________________________________-
 
 
 
