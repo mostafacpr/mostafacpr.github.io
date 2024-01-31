@@ -6,12 +6,12 @@
 </center>
 </h1>
 
- **1 _ My vpn 1.9** [→](https://m.fix7.shop) [Android](https://uplnk.com/f/134a0565/my_vpn_1.9.0.apk) & [link2](https://www.mediafire.com/file/tkjuj75v8gh8s5q/MY+VPN+1.9.0.apk/file)
+**1 _  HiddifyNext** → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fregment Convertor](https://f.fix7.shop/)
         
 
 .......................................................................
 
-**2 _  HiddifyNext** → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fregment Convertor](https://ircfspace.github.io/fragment)
+ **2 _ My vpn 1.9** [→](https://m.fix7.shop) [Android](https://uplnk.com/f/134a0565/my_vpn_1.9.0.apk) & [link2](https://www.mediafire.com/file/tkjuj75v8gh8s5q/MY+VPN+1.9.0.apk/file)
 
 .......................................................................
 
