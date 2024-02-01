@@ -21,7 +21,7 @@
 
 > **4 _  V2rayNg** → [Android](https://github.com/2dust/v2rayNG/releases/download/1.8.12/v2rayNG_1.8.12.apk) & [github](https://github.com/2dust/v2rayNG/releases) & [🎥](https://github.com/mostafacpr/connectix/blob/main/image/v2rayupdate.md)
 >
-> ......................................................................
+ ......................................................................
 
 * [Whatsapp](https://www.whatsapp.com/android?lang=fa) _ [Telegram](https://telegram.org/dl/android/apk) _ [Instagram](https://apkflash.com/apk/app/com.instagram.android/instagram/download) _  [Instagram Lite](https://apkflash.com/apk/app/com.instagram.lite/instagram-lite)
 
