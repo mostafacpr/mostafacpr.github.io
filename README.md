@@ -7,7 +7,7 @@
 </center>
 </h1>
 
- **1 _  HiddifyNext** [→](https://h.fix7.shop) [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 🟠 [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 🟠 [Fregment Tool](https://f.fix7.shop/)
+ **1 _  HiddifyNext** [→](https://h.fix7.shop) [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 🟠 [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 
 
  .......................................................................
  
@@ -25,11 +25,20 @@
 
 * [Whatsapp](https://www.whatsapp.com/android?lang=fa) _ [Telegram](https://telegram.org/dl/android/apk) _ [Instagram](https://apkflash.com/apk/app/com.instagram.android/instagram/download) _  [Instagram Lite](https://apkflash.com/apk/app/com.instagram.lite/instagram-lite)
 
-* [File Manager+](https://fastfix.s3.ir-thr-at1.arvanstorage.ir/APP/Flashlight-File-Manager-Premium-3.2.2(www.farsroid.com).apk?versionId=) _ [Smart Switch](https://apkflash.com/apk/app/com.sec.android.easyMover/smart-switch0) _ [File Sharing](https://transfer.sh/)  [Share it](https://www.farsroid.com/shareit-android/)
+* [File Manager+](https://fastfix.s3.ir-thr-at1.arvanstorage.ir/APP/Flashlight-File-Manager-Premium-3.2.2(www.farsroid.com).apk?versionId=) _ [Smart Switch](https://apkflash.com/apk/app/com.sec.android.easyMover/smart-switch0) _ [File Sharing](https://transfer.sh/) _ [Share it](https://www.farsroid.com/shareit-android/)
 
 * [bazar](cafebazaar.ir/download/bazaar.apk) _ [bale](https://bale.ai/apk/bale.apk) _ [Eita](eitaa.com/app/apk) _ [Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)
 
 * [Ip Scanner](https://vfarid.github.io/cf-ip-scanner/) _ [Frp Tool](https://frp.owest.ir/) _ [Gdrive link Direct](https://link.fix7.shop/)
+
+
+
+|   [Whatsapp](https://www.whatsapp.com/android?lang=fa)                                                                                                                                  | [Telegram](https://telegram.org/dl/android/apk)                                                                               | [Instagram](https://apkflash.com/apk/app/com.instagram.android/instagram/download)                                                                             |[Instagram Lite](https://apkflash.com/apk/app/com.instagram.lite/instagram-lite)                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [Whatsapp](https://www.whatsapp.com/android?lang=fa)                                                                                      | [Telegram](https://telegram.org/dl/android/apk)                                      | [Instagram](https://apkflash.com/apk/app/com.instagram.android/instagram/download) | [Instagram Lite](https://apkflash.com/apk/app/com.instagram.lite/instagram-lite) |
+| [File Manager+](https://fastfix.s3.ir-thr-at1.arvanstorage.ir/APP/Flashlight-File-Manager-Premium-3.2.2(www.farsroid.com).apk?versionId=) | [Smart Switch](https://apkflash.com/apk/app/com.sec.android.easyMover/smart-switch0) | [File Sharing](https://transfer.sh/)                                               | [Share it](https://www.farsroid.com/shareit-android/)                            |
+| [bazar](cafebazaar.ir/download/bazaar.apk)                                                                                                | [bale](https://bale.ai/apk/bale.apk)                                                 | [Eita](eitaa.com/app/apk)                                                          | [Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)                                        |# Untitled Document
+
 
 
 ________________________________________
