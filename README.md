@@ -39,6 +39,7 @@
 |[Share it](https://www.farsroid.com/shareit-android/)        |[bazar](cafebazaar.ir/download/bazaar.apk)        |[bale](https://bale.ai/apk/bale.apk)        |
 |[Eita](eitaa.com/app/apk)        |[Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)        | [Ip Scanner](https://vfarid.github.io/cf-ip-scanner/)       |
 |[Frp Tool](https://frp.owest.ir/)|[Gdrive link Direct](https://link.fix7.shop/)
+
 ________________________________________
 
 Contact Us → [Telegram](http://t.me/fastfixgsm) & [gfix4600@gmail.com](mailto:gfix4600@gmail.com)       
