@@ -4,7 +4,6 @@ layout: default
 
 ## HiddifyNext
 
-<h3>
 <center> 
         <p>
 
@@ -16,7 +15,7 @@ layout: default
 
    </p>
 </center>
-</h3>
+
 
 
 
