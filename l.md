@@ -190,8 +190,7 @@
 	
 	</script>
 
-	<img src="image/1.jpg" />
-	<img src="image/ip.jpg" />
-
+	<img src="image/sampleconfig.jpg" />
+	
 </body></html>
 
