@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## MyVpn
 
 
 
@@ -25,10 +25,6 @@ _____________________________________________________
 ![alt text](myvpn/my2.jpg "Title")<small>
 
 ![alt text](myvpn/my3.jpg "Title")<small>
-
-________________________________________
-
-Contact Us → [Telegram](http://t.me/fastfixgsm) & [gfix4600@gmail.com](mailto:gfix4600@gmail.com)   
 
 
 [back](./)
