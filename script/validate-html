@@ -5,10 +5,9 @@ require "w3c_validators"
 
 def validator(file)
   extension = File.extname(file)
-  case extension
-  when ".html"
+  if extension == ".html"
     W3CValidators::NuValidator.new
-  when ".css"
+  elsif extension == ".css"
     W3CValidators::CSSValidator.new
   end
 end
@@ -21,7 +20,7 @@ def validate(file)
 
   return puts "Valid!" if results.errors.empty?
 
-  results.errors.each { |err| puts err.to_s }
+  results.errors.each { |err| puts err }
   exit 1
 end
 
