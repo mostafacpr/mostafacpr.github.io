@@ -50,7 +50,7 @@ body {
 
 a {
   font-weight: bold;
-  color: #730101;
+  color: #3b057d;
 }
 
 header {
@@ -70,7 +70,7 @@ header h2 {
   font-size: 24px;
   font-weight: normal;
   line-height: 1.3;
-  color: #aaa;
+  color: #636060;
   letter-spacing: -1px;
 }
 #downloads {
@@ -94,7 +94,7 @@ code {
 pre {
   padding: 20px;
   overflow: auto;
-  border: solid 1px #ddd;
+  border: solid 1px #575555;
 }
 pre code {
   padding: 0;
