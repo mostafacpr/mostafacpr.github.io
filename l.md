@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0084)https://farazgar.ir/Tools/General/Direct%20link%20Google%20Drive/Google%20Drive.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
