@@ -5,7 +5,7 @@ layout: default
 ## HiddifyNext
 
 <center> 
-        <p>
+    
 
 🟠 [*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
 
@@ -13,7 +13,7 @@ layout: default
 
 🟠 [*windows*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 
 
-   </p>
+  
 </center>
 
 
