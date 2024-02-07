@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## HiddifyNext
+## Connectix
 <h1>
 <center> 
         <p>
