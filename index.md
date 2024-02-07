@@ -24,7 +24,3 @@
 
 * [Ip Scanner](https://vfarid.github.io/cf-ip-scanner/) _ [Frp Tool](https://frp.owest.ir/) _ [Gdrive link Direct](https://link.fix7.shop/)
 
-
-________________________________________
-
-Contact Us → [Telegram](http://t.me/fastfixgsm) & [gfix4600@gmail.com](mailto:gfix4600@gmail.com)       
