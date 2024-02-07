@@ -1,4 +1,8 @@
+---
+layout: default
+---
 
+## HiddifyNext
 <h1>
 <center> 
         <p>
@@ -28,3 +32,5 @@
 <img src="image/3.jpg" />
 
 <img src="image/5.jpg" />
+
+[back](./)
