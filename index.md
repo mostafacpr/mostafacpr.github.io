@@ -23,5 +23,4 @@
 
 * [bazar](cafebazaar.ir/download/bazaar.apk) _ [bale](https://bale.ai/apk/bale.apk) _ [Eita](eitaa.com/app/apk) _ [Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)
 
-* [Ip Scanner](https://vfarid.github.io/cf-ip-scanner/) _ [Frp Tool](https://frp.owest.ir/) _ [Gdrive link Direct](https://link.fix7.shop/)
-
+* [Ip Scanner](https://vfarid.github.io/cf-ip-scanner/) _ [Frp Tool](https://frp.owest.ir/) 
