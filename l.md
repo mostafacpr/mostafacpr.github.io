@@ -192,7 +192,7 @@
 
 	<img src="image/sampleconfig.jpg" />
 
-  	[Sample Link DOwnload](https://drive.google.com/uc?export=download&id=1kTAPs7fMtB9dGfnPOxnoUDsS9bVgoMfF)
-	
+  		
 </body></html>
 
+[Sample Link DOwnload](https://drive.google.com/uc?export=download&id=1kTAPs7fMtB9dGfnPOxnoUDsS9bVgoMfF)
