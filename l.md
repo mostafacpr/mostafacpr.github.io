@@ -372,19 +372,4 @@
   }
 }
 ```
----
-title: "Copy code to clipboard"
-date: "2022-10-31"
-output: html_document
----
 
-```{r klippy, echo=FALSE, include=TRUE}
-klippy::klippy()
-```
-
-Some example code:
-
-```{r}
-# Summary of mtcars dataset:
-summary(mtcars)
-```
