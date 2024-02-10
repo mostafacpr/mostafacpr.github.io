@@ -204,7 +204,7 @@
 
 [remote](https://qtext.io/118)
 
-copyCodeBlock('<div>Thundercats</div>')
+
 
 
 
