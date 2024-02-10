@@ -202,7 +202,7 @@
 
 [Sample 2 Link DOwnload](https://drive.google.com/uc?export=download&id=1nxM0tFaUebinzVUQE-bB4gfbwgOCR3o5)
 
-[آرتباط  آنلاین ](/https://qtext.io/118)
+[آرتباط  آنلاین ](https://qtext.io/118)
 
 
 
