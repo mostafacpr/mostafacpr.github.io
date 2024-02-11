@@ -191,6 +191,20 @@
 	</script>
 
 	<img src="image/sampleconfig.jpg" />
-	
+
+  		
 </body></html>
+
+![frg1-5](https://github.com/mostafacpr/FixGsm/assets/120664716/fb704b40-b39f-4971-861f-54d7bb0deb57)
+
+
+[Sample 1 Link DOwnload](https://drive.google.com/uc?export=download&id=1kTAPs7fMtB9dGfnPOxnoUDsS9bVgoMfF)
+
+[Sample 2 Link DOwnload](https://drive.google.com/uc?export=download&id=1nxM0tFaUebinzVUQE-bB4gfbwgOCR3o5)
+
+[remote](https://qtext.io/118)
+
+
+
+
 
