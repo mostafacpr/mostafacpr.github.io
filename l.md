@@ -194,8 +194,7 @@
 	
 	</script>
 
-	<img src="image/sampleconfig.jpg" />
-
+	
  <div class="container">
     <div class="header">
       <h1>QR Code Generator</h1>
@@ -228,6 +227,7 @@
     }
   </script>
 
+<img src="image/sampleconfig.jpg" />
   		
 </body></html>
 
