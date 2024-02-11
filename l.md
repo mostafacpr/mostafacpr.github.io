@@ -16,11 +16,7 @@
 			   url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.ttf') format('truetype');
 		  font-weight: normal;
 		}
-	<meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <title>Document</title>	
+		
 	body{
 	    font-family: Vazir;
 	}
@@ -194,53 +190,7 @@
 	
 	</script>
 
+	<img src="image/sampleconfig.jpg" />
 	
- <div class="container">
-    <div class="header">
-      <h1>QR Code Generator</h1>
-      <p>Type a url or text to generate QR Code</p>
-    </div>
-    <div class="input-form">
-      <input type="text" class="qr-input" placeholder="Enter url or text">
-      <button class="generate-btn">Generate QR Code</button>
-    </div>
-    <div class="qr-code">
-      <img src="images/qrcode.png" class="qr-image">
-    </div>
-  </div>
-
-  <script>
-    var container = document.querySelector(".container");
-    var generateBtn = document.querySelector(".generate-btn");
-    var qrInput = document.querySelector(".qr-input");
-    var qrImg = document.querySelector(".qr-image");
-
-    generateBtn.onclick = function () {      
-      if(qrInput.value.length > 0){ 
-        generateBtn.innerText = "Generating QR Code..."       
-        qrImg.src = "https://api.qrserver.com/v1/create-qr-code/?size=170x170&data="+qrInput.value;
-        qrImg.onload = function () {
-          container.classList.add("active");
-          generateBtn.innerText = "Generate QR Code";
-        }
-      }
-    }
-  </script>
-
-<img src="image/sampleconfig.jpg" />
-  		
 </body></html>
-
-![frg1-5](https://github.com/mostafacpr/FixGsm/assets/120664716/fb704b40-b39f-4971-861f-54d7bb0deb57)
-
-
-[Sample 1 Link DOwnload](https://drive.google.com/uc?export=download&id=1kTAPs7fMtB9dGfnPOxnoUDsS9bVgoMfF)
-
-[Sample 2 Link DOwnload](https://drive.google.com/uc?export=download&id=1nxM0tFaUebinzVUQE-bB4gfbwgOCR3o5)
-
-[remote](https://qtext.io/118)
-
-
-
-
 
