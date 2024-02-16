@@ -1,5 +1,13 @@
 
 
+**4 _  V2rayNg** → [Android](https://github.com/2dust/v2rayNG/releases/download/1.8.12/v2rayNG_1.8.12.apk) 
+
+⚪ [Fragment versio](https://github.com/2dust/v2rayNG/releases/download/1.8.16/v2rayNG_1.8.16.apk)
+
+⚪ [github](https://github.com/2dust/v2rayNG/releases) 
+
+---
+
 <h1>فعالسازی فراگمنت</h1>
 
 ## برای این کار طبق فیلم زیر عمل کنید 
