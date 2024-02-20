@@ -1,8 +1,9 @@
-## Open Connect  آموزش اتصال با برنامه    
-Click here to download -> [Open Connect](https://drive.google.com/file/d/1E06Dta-FlbilDWG33J2ABZLbxGv6zInD/view?usp=sharing)
+## Open Connect ,cisco  آموزش اتصال با برنامه    
+
+Click  -> [Open Connect](https://drive.google.com/file/d/1E06Dta-FlbilDWG33J2ABZLbxGv6zInD/view?usp=sharing)
 
 پس از نصب برنامه از لینک بالا طبق عکس ها مراحل را انجام میدهیم .
-## حتما روشن باشد pfs تیک
+## حتما روشن باشد (شکل 3) pfs تیک
 ![1](https://github.com/mostafacpr/FixGsm/assets/120664716/4a196d43-90bb-4c53-9eca-c4bb9b62e125)
 ![2](https://github.com/mostafacpr/FixGsm/assets/120664716/b9c877e1-509c-4850-8ff9-305411987912)
 ![3](https://github.com/mostafacpr/FixGsm/assets/120664716/05d08085-5a59-4b56-96f6-3ba0e0bd7298)
@@ -17,7 +18,7 @@ Click here to download -> [Open Connect](https://drive.google.com/file/d/1E06Dta
 
 برای اتصال به  در ویندوز از برنامه زیر استفاده کنید 
 
-Click here to download -> [Oppen Connect Windows](https://drive.google.com/file/d/1HghJjEP7bJGnNu92fjfkfc3M02bnaCg_/view?usp=sharing)
+Click -> [Oppen Connect Windows](https://drive.google.com/file/d/1HghJjEP7bJGnNu92fjfkfc3M02bnaCg_/view?usp=sharing)
 
 سرورهای ایرانسل 
 
@@ -43,9 +44,10 @@ Cell9.gsmxr.net
  ---
 
  ## دانلود برنامه سیسکو 
-click here to download -> [Cisco Any connect Android](https://drive.google.com/file/d/1LpF29P_zRjvIS6Uwt8x-7sWY81DoA4nP/view?usp=sharing)
+ 
+click -> [Cisco Any connect Android](https://drive.google.com/file/d/1LpF29P_zRjvIS6Uwt8x-7sWY81DoA4nP/view?usp=sharing)
 
-
+click -> [Cisco Any connect windows](https://drive.google.com/file/d/1LZ4kw_kxD4IqYFGFNtt4fMGI3ShYG9FB/view?usp=sharing)
 
  
 ⭕️ آپديت سرورهای تانل سیسکو در پلن vip برای هرنتی
