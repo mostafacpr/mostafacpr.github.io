@@ -36,7 +36,7 @@ layout: default
 
 <center> 
         <p>
-برای اتصال به  در ویندوز از برنامه زیر استفاده کنید 
+برای اتصال در ویندوز از برنامه زیر استفاده کنید 
 </p>
 </center>
 
@@ -70,8 +70,10 @@ Cell8.gsmxr.net
 Cell9.gsmxr.net
  
  ---
+ 
 
  ## دانلود برنامه سیسکو 
+ 
  
 🟡 click -> [Cisco Any connect Android](https://drive.google.com/file/d/1LpF29P_zRjvIS6Uwt8x-7sWY81DoA4nP/view?usp=sharing)
 
