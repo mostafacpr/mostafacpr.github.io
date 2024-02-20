@@ -12,12 +12,10 @@ layout: default
   </p>
 </center>
 
-<center> 
-        <p>
+
                 
 ## حتما روشن باشد (شکل 3) pfs تیک
-         </p>
-</center>
+   
 
 ![1](https://github.com/mostafacpr/FixGsm/assets/120664716/4a196d43-90bb-4c53-9eca-c4bb9b62e125)
 ![2](https://github.com/mostafacpr/FixGsm/assets/120664716/b9c877e1-509c-4850-8ff9-305411987912)
