@@ -14,7 +14,7 @@ layout: default
 
 
                 
-## حتما روشن باشد (شکل 3) pfs تیک
+## حتما روشن باشد pfs تیک
    
 
 ![1](https://github.com/mostafacpr/FixGsm/assets/120664716/4a196d43-90bb-4c53-9eca-c4bb9b62e125)
