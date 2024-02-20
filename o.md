@@ -1,12 +1,13 @@
-## آموزش اتصال با برنامه   Open Connect 
+## Open Connect  آموزش اتصال با برنامه    
 Click here to download -> [Open Connect](https://drive.google.com/file/d/1E06Dta-FlbilDWG33J2ABZLbxGv6zInD/view?usp=sharing)
 
 پس از نصب برنامه از لینک بالا طبق عکس ها مراحل را انجام میدهیم .
+## حتما روشن باشد pfs تیک
 ![1](https://github.com/mostafacpr/FixGsm/assets/120664716/4a196d43-90bb-4c53-9eca-c4bb9b62e125)
 ![2](https://github.com/mostafacpr/FixGsm/assets/120664716/b9c877e1-509c-4850-8ff9-305411987912)
 ![3](https://github.com/mostafacpr/FixGsm/assets/120664716/05d08085-5a59-4b56-96f6-3ba0e0bd7298)
 
-## حتما روشن باشد pfs تیک
+
 
 پس از اولین اتصال برای سهولت اتصال در دفعات بعد میتوانید گزینه مشخص شده در عکس زیر تغییر دهید تا بدون پرسش نام کاربری و رمز عبور اتصال برقرار شود .
 
@@ -14,11 +15,11 @@ Click here to download -> [Open Connect](https://drive.google.com/file/d/1E06Dta
 
 ![4](https://github.com/mostafacpr/FixGsm/assets/120664716/ed488c58-ab4a-489f-9c79-ee3c076e622c)
 
-برای اتصال به  Open Connect  در ویندوز از برنامه زیر استفاده کنید 
+برای اتصال به  در ویندوز از برنامه زیر استفاده کنید 
 
 Click here to download -> [Oppen Connect Windows](https://drive.google.com/file/d/1HghJjEP7bJGnNu92fjfkfc3M02bnaCg_/view?usp=sharing)
 
-سرورهای open connect  ایرانسل در پلن vip (برای اتصال تیک pfs را در نرم افزار open connect حتما روشن کنید) 👇👇
+سرورهای ایرانسل 
 
 
 Cell.gsmxr.net
@@ -47,8 +48,7 @@ click here to download -> [Cisco Any connect Android](https://drive.google.com/f
 
 
  
-⭕️ آپديت سرورهای تانل سیسکو در پلن vip برای
- هرنتی
+⭕️ آپديت سرورهای تانل سیسکو در پلن vip برای هرنتی
 
 mu1.gsmxr.net
 
