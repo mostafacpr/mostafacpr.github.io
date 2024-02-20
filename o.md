@@ -16,7 +16,7 @@ Click here to download -> [Open Connect](https://drive.google.com/file/d/1E06Dta
 
 برای اتصال به  Open Connect  در ویندوز از برنامه زیر استفاده کنید 
 
-[Oppen Connect Windows](https://drive.google.com/file/d/1HghJjEP7bJGnNu92fjfkfc3M02bnaCg_/view?usp=sharing)
+Click here to download -> [Oppen Connect Windows](https://drive.google.com/file/d/1HghJjEP7bJGnNu92fjfkfc3M02bnaCg_/view?usp=sharing)
 
 سرورهای open connect  ایرانسل در پلن vip (برای اتصال تیک pfs را در نرم افزار open connect حتما روشن کنید) 👇👇
 
@@ -38,12 +38,19 @@ Cell7.gsmxr.net
 Cell8.gsmxr.net
 
 Cell9.gsmxr.net
+ 
+ ---
 
+ ## دانلود برنامه سیسکو 
+click here to download -> [Cisco Any connect Android](https://drive.google.com/file/d/1LpF29P_zRjvIS6Uwt8x-7sWY81DoA4nP/view?usp=sharing)
+
+
+
+ 
 ⭕️ آپديت سرورهای تانل سیسکو در پلن vip برای
  هرنتی
 
 mu1.gsmxr.net
-
 
 mu2.gsmxr.net
 
@@ -95,5 +102,3 @@ mu25.gsmxr.net
 
 mu26.gsmxr.net
 
-## دانلود برنامه سیسکو 
-click here to download -> [Cisco Any connect Android](https://drive.google.com/file/d/1LpF29P_zRjvIS6Uwt8x-7sWY81DoA4nP/view?usp=sharing)
