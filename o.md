@@ -71,12 +71,16 @@ Cell9.gsmxr.net
  
  ---
 
+<div dir=”rtl”>
+
  <h2>
 
   دانلود برنامه سیسکو 
   
   </h2>
- 
+  
+ </div>
+
  
 🟡 click -> [Cisco Any connect Android](https://drive.google.com/file/d/1LpF29P_zRjvIS6Uwt8x-7sWY81DoA4nP/view?usp=sharing)
 
