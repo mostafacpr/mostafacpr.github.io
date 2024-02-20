@@ -85,10 +85,13 @@ Cell9.gsmxr.net
 
 
 
+<div dir=”rtl”>
+
 
 
 
 ⭕️ آپديت سرورهای تانل سیسکو برای هرنتی
+</div>
 
 
 mu1.gsmxr.net
