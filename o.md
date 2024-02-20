@@ -86,8 +86,14 @@ Cell9.gsmxr.net
 
 🟡 click -> [Cisco Any connect windows](https://drive.google.com/file/d/1LZ4kw_kxD4IqYFGFNtt4fMGI3ShYG9FB/view?usp=sharing)
 
- 
+
+<div dir=”rtl”>
+
+
+
 ⭕️ آپديت سرورهای تانل سیسکو برای هرنتی
+</div>
+
 
 mu1.gsmxr.net
 
