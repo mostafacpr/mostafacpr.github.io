@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Open Connect ,cisco  آموزش اتصال با برنامه    
+## Open Connect ,cisco   
 
 🟡 Click  -> [Open Connect](https://drive.google.com/file/d/1E06Dta-FlbilDWG33J2ABZLbxGv6zInD/view?usp=sharing)
 
