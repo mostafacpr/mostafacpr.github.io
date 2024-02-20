@@ -4,7 +4,7 @@ layout: default
 
 ## Open Connect ,cisco  آموزش اتصال با برنامه    
 
-Click  -> [Open Connect](https://drive.google.com/file/d/1E06Dta-FlbilDWG33J2ABZLbxGv6zInD/view?usp=sharing)
+🟡 Click  -> [Open Connect](https://drive.google.com/file/d/1E06Dta-FlbilDWG33J2ABZLbxGv6zInD/view?usp=sharing)
 
 <center> 
         <p>
@@ -37,7 +37,7 @@ Click  -> [Open Connect](https://drive.google.com/file/d/1E06Dta-FlbilDWG33J2ABZ
 </center>
 
 
-Click -> [Oppen Connect Windows](https://drive.google.com/file/d/1HghJjEP7bJGnNu92fjfkfc3M02bnaCg_/view?usp=sharing)
+🟡 Click -> [Oppen Connect Windows](https://drive.google.com/file/d/1HghJjEP7bJGnNu92fjfkfc3M02bnaCg_/view?usp=sharing)
 
 <center> 
         <p>
@@ -69,9 +69,9 @@ Cell9.gsmxr.net
 
  ## دانلود برنامه سیسکو 
  
-click -> [Cisco Any connect Android](https://drive.google.com/file/d/1LpF29P_zRjvIS6Uwt8x-7sWY81DoA4nP/view?usp=sharing)
+🟡 click -> [Cisco Any connect Android](https://drive.google.com/file/d/1LpF29P_zRjvIS6Uwt8x-7sWY81DoA4nP/view?usp=sharing)
 
-click -> [Cisco Any connect windows](https://drive.google.com/file/d/1LZ4kw_kxD4IqYFGFNtt4fMGI3ShYG9FB/view?usp=sharing)
+🟡 click -> [Cisco Any connect windows](https://drive.google.com/file/d/1LZ4kw_kxD4IqYFGFNtt4fMGI3ShYG9FB/view?usp=sharing)
 
  
 ⭕️ آپديت سرورهای تانل سیسکو برای هرنتی
