@@ -50,7 +50,7 @@ click -> [Cisco Any connect Android](https://drive.google.com/file/d/1LpF29P_zRj
 click -> [Cisco Any connect windows](https://drive.google.com/file/d/1LZ4kw_kxD4IqYFGFNtt4fMGI3ShYG9FB/view?usp=sharing)
 
  
-⭕️ آپديت سرورهای تانل سیسکو در پلن vip برای هرنتی
+⭕️ آپديت سرورهای تانل سیسکو برای هرنتی
 
 mu1.gsmxr.net
 
