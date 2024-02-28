@@ -11,6 +11,14 @@ layout: default
 </center>
 </h1>
 
+---
+
+
+برای اطلاع از آخرین تغییرات در کانال تلگرام ما عضو شوید
+
+✅ [**Telegram channel**](https://t.me/+QDqHzG8cLuQ1Y2E8)
+
+---
 
 🟣 [**Android**](https://apps.irancdn.org/android/Connectix-1.3.2.apk) _ [📷](https://github.com/mostafacpr/connectix/blob/main/image/cadn.jpg)
  
