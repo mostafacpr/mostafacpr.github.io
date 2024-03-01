@@ -32,9 +32,9 @@ _____________________________________________________
 
 ![alt text](myvpn/my1.jpg "Title")<small>
 
-![alt text](myvpn/my2.jpg "Title")<small>
+![alt text](image/my4.jpg "Title")<small>
 
-![alt text](myvpn/my3.jpg "Title")<small>
+
 
 
 [back](./)
