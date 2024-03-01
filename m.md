@@ -6,7 +6,11 @@ layout: default
 
 
 
-🟢 [**Android**](https://uplnk.com/f/134a0565/my_vpn_1.9.0.apk) & [link2](https://www.mediafire.com/file/tkjuj75v8gh8s5q/MY+VPN+1.9.0.apk/file)
+🟢 [**Android New version**](https://drive.google.com/file/d/1T0qeWxyyDMLKXxzMiD6kDSd5lOeEJE9_/view?usp=sharing) 
+
+short.gfix4600.workers.dev/7SnGXj
+
+ [old veraion](https://www.mediafire.com/file/tkjuj75v8gh8s5q/MY+VPN+1.9.0.apk/file)
 
 🟢 [**Windows**](http://uplnk.com/f/f99ba404/my_vpn.windows.zip)
 
