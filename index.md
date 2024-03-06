@@ -5,7 +5,7 @@
 
  .......................................................................
  
- **2 _ My vpn 2.2** [→](m.md) [Android](https://drive.google.com/file/d/1T0qeWxyyDMLKXxzMiD6kDSd5lOeEJE9_/view?usp=sharing) 🟢 [old](https://uplnk.com/f/134a0565/my_vpn_1.9.0.apk)
+ **2 _ My vpn 2.2** [→](m.md) [Android](https://www.mediafire.com/file/kjiwtrv1nk8xwe3/io.github.segas.myvpn-v2.2-38-release.apk/file) 🟢 [old](https://uplnk.com/f/134a0565/my_vpn_1.9.0.apk)
 
  .......................................................................
 
