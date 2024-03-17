@@ -5,7 +5,7 @@
 
  .......................................................................
  
- **2 _ My vpn 2.2** [→](m.md) [Android](https://drive.google.com/uc?export=download&id=11cJix1IfN6_XsI1-kiovHOK2Isi7IH7B) 🟢 [old](https://uplnk.com/f/134a0565/my_vpn_1.9.0.apk)
+ **2 _ My vpn 2.2** [→](m.md) [Android](https://drive.google.com/uc?export=download&id=11cJix1IfN6_XsI1-kiovHOK2Isi7IH7B) 🟢[ikev](https://github.com/mostafacpr/Myvpn/blob/main/ikev.md) - [L2tp](https://github.com/mostafacpr/Myvpn/blob/main/L2tp.md) - [cisco](https://github.com/mostafacpr/Myvpn/blob/main/openconnect.md) - [openvpn](https://github.com/mostafacpr/Myvpn/blob/main/openvpn.md)
 
  .......................................................................
 
