@@ -2,6 +2,8 @@
 
  **1 _  Hiddify →**  [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 🟠 [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 🟠 [Ios](https://testflight.apple.com/join/URrT6ZWm) 🟠 [🎥](h.md)
 
+ [sample fragment multi config p2 Qrcode](https://github.com/mostafacpr/FixGsm/blob/main/image/multiconfigjsano.png)
+
 
  .......................................................................
  
