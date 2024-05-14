@@ -23,6 +23,6 @@
 
 * [File Manager+](https://drive.google.com/uc?export=download&id=1zKIXpw7P1nHTqxy0hErBOot1tzuBhZ-P) _  [File Sharing](https://drive.google.com/uc?export=download&id=1RhVsmY1K-2FEcl9Ycs4qDfMUQZ2N3y8y)
 
-* [bazar](cafebazaar.ir/download/bazaar.apk) _ [bale](https://bale.ai/apk/bale.apk) _ [Eita](eitaa.com/app/apk) _ [Rubika](cdnu5.iranlms.ir/RubX_3_0_1.apk)
+* [bazar](https://cafebazaar.ir/download/bazaar.apk) _ [bale](https://bale.ai/apk/bale.apk) _ [Eita](https://eitaa.com/app/apk) _ [Rubika](https://cdnu5.iranlms.ir/RubX_3_0_1.apk)
 
 * [Ip Scanner](https://vfarid.github.io/cf-ip-scanner/) _ [Frp Tool](https://frp.owest.ir/) 
