@@ -1,6 +1,6 @@
 
 
- **1 _  Hiddify →**  [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 🟠 [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 🟠 [Ios](https://testflight.apple.com/join/URrT6ZWm) 🟠 [🎥](h.md) - W[w](https://raw.githubusercontent.com/mostafacpr/FixGsm/main/json/warp.json/%F0%9F%94%A5%20MobileMostafa%20%F0%9F%94%A5)
+ **1 _  Hiddify →**  [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 🟠 [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 🟠 [Ios](https://testflight.apple.com/join/URrT6ZWm) 🟠 [🎥](h.md) - W[w](https://raw.githubusercontent.com/mostafacpr/FixGsm/main/json/warp.json)
 
  [sample fragment multi config p2](https://raw.githubusercontent.com/mostafacpr/FixGsm/main/multisample.json) - [🎥](https://github.com/mostafacpr/FixGsm/blob/main/image/multiconfigjsano.png)
 
