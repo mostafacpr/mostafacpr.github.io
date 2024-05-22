@@ -21,7 +21,7 @@
 
 * [Whatsapp](https://www.whatsapp.com/android?lang=fa) [D](http://uplnk.com/f/d8555c94/whatsapp.apk) _ [Telegram](https://telegram.org/dl/android/apk) _ [Instagram](https://apkflash.com/apk/app/com.instagram.android/instagram/download) _  [Instagram Lite](https://apkflash.com/apk/app/com.instagram.lite/instagram-lite)
 
-* [File Manager+](https://drive.google.com/uc?export=download&id=1zKIXpw7P1nHTqxy0hErBOot1tzuBhZ-P) _  [File Sharing](https://drive.google.com/uc?export=download&id=1RhVsmY1K-2FEcl9Ycs4qDfMUQZ2N3y8y)
+* [File Manager+](https://drive.google.com/uc?export=download&id=1zKIXpw7P1nHTqxy0hErBOot1tzuBhZ-P) _  [File Sharing](https://drive.google.com/uc?export=download&id=1RhVsmY1K-2FEcl9Ycs4qDfMUQZ2N3y8y) - [ShareMe](https://drive.google.com/uc?export=download&id=1VhT_j-9FFtV0mKH8APRe_tsqErlk-KBv)
 
 * [bazar](https://cafebazaar.ir/download/bazaar.apk) _ [bale](https://bale.ai/apk/bale.apk) _ [Eita](https://eitaa.com/app/apk) _ [Rubika](https://cdnu5.iranlms.ir/RubX_3_0_1.apk)
 
