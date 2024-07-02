@@ -16,7 +16,7 @@
 
 .......................................................................
 
- **4 _  V2rayNg →**  [Android](https://github.com/2dust/v2rayNG/releases/latest)  ⚪ [github](https://github.com/2dust/v2rayNG/releases) ⚪ [🎥](v.md)
+ **4 _  V2rayNg →**  [Android](https://github.com/2dust/v2rayNG/releases/download/1.8.25/v2rayNG_1.8.25_arm64-v8a.apk)⚪[github](https://github.com/2dust/v2rayNG/releases/latest)  ⚪ [🎥](v.md)
 
  ......................................................................
 
