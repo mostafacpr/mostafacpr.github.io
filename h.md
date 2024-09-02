@@ -31,11 +31,6 @@ layout: default
 
 ---
 
-<h4 dir="rtl">فعالسازی فراگمنت در برنامه هیدیفای نکست برای سیم کارت های همراه اول  :</h4>
-
-![activefragmentinhiddifynextgif](https://github.com/mostafacpr/HiddifyNext/assets/120664716/6f0562bc-ebea-4505-a25a-f026d51beeb0)
-
----
 
 <h4 dir="rtl">غیرفعال کردن بهینه سازی باتری در هیدیفای نکست :</h4>
 
