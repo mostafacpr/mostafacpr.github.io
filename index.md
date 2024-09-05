@@ -28,10 +28,10 @@
 
 * [Ip Scanner](https://vfarid.github.io/cf-ip-scanner/) _ [Frp Tool](https://frp.owest.ir/)
 
-* ---
+ .......................................................................
 
-* # frp
-### bypass frp mobile phone
+ 
+# bypass frp mobile phone
 
 ---
 
