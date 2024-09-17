@@ -12,7 +12,7 @@
 
  .......................................................................
 
- **3 _  Connectix →** [Android](https://drive.google.com/uc?export=download&id=1_enIxtRNIhV4z5OlE-OnSXGPrXl03iFw) 🟣 [IOS](http://testflight.apple.com/join/ATDvld9Y) 🟣 [Windows](https://apps.irancdn.org/windows/Connectix-2.0.2.zip)  🟣 [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
+ **3 _  Connectix →** [Android](https://drive.google.com/uc?export=download&id=1_enIxtRNIhV4z5OlE-OnSXGPrXl03iFw) [old](https://github.com/2dust/v2rayNG/releases/download/1.8.17/v2rayNG_1.8.17.apk)🟣 [IOS](http://testflight.apple.com/join/ATDvld9Y) 🟣 [Windows](https://apps.irancdn.org/windows/Connectix-2.0.2.zip)  🟣 [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
 
 .......................................................................
 
