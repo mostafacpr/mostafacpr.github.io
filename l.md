@@ -192,7 +192,6 @@
  
 
 
-	<img src="image/sampleconfig.jpg" />
 
   		
 </body></html>
