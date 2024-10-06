@@ -1,216 +1,176 @@
-[
-<!-- saved from url=(0084)https://farazgar.ir/Tools/General/Direct%20link%20Google%20Drive/Google%20Drive.html -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-	
-	<title>index</title>
-  
-	<style>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تبدیل لینک گوگل درایو به لینک مستقیم و QR کد</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
 
-		@font-face {
-		  font-family: Vazir;
-		  src: url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.eot');
-		  src: url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.eot?#iefix') format('embedded-opentype'),
-			   url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.woff2') format('woff2'),
-			   url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.woff') format('woff'),
-			   url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.ttf') format('truetype');
-		  font-weight: normal;
-		}
-		
-	body{
-	    font-family: Vazir;
-	}
-		
-		.h3style{
-    background: #fff;
-    position: relative;
-    text-align: right;
-    padding: 3px 20px 3px 20px;
-    border-radius: 50px 15px;
-    width: auto;
-    display: inline-block;
-    border-right: 5px solid #ff4784;
-    z-index: 1;
-    margin-top: 20px;
-    margin-bottom: 10px;
-    box-shadow: 0px 2px 2px #000;
-			
-		}
-		
-		.block{
-			background:#fcfcfc;
-			/*border:1px solid #ddd;*/
-			border-radius:10px;
-			padding:10px 20px;
-			margin:10px;
-			direction:rtl;
-		}
-		
-		#linkpaste{
-    min-width: 100%;
-    font-family: Courier;
-    font-size: 1em;
-    background: #ffffff;
-    padding: 0 10px;
-    margin: 20px auto 0px auto;
-    height: 40px;
-    border: 1px solid #32A4D6;
-    display: block;
-    text-align: left;
-    border-radius: 5px;
-}
-		
-		#cde:focus{border: 1px solid black;}
-		.instruc{ width: 48%; float: left;}
-		.notes{ width: 48%; float: right;}
-		
-		.instruc h2,
-		.notes h2{
-			font-size: 1.3em;
-			border-bottom: 1px solid #ff7200;
-			padding-bottom: .2em;
-			margin-bottom: .3em;
-		}
-		
-		.instruc ol,
-		.notes ul{margin-left: 20px;}
+        h2 {
+            color: #4CAF50;
+        }
 
-		#cde{
-    width: 100%;
-    height: 40px;
-    padding: 0 10px;
-    margin: 20px auto 20px auto;
-    font-size: 1em;
-    font-family: vazir;
-    text-align: left;
-    border-radius: 5px;
-    border: 1px solid #898989;
-    display: block;
-		}
+        label {
+            display: block;
+            margin-top: 20px;
+            font-size: 1.1em;
+        }
 
-		label{font-family: Georgia;font-size: 1.5em;}
-		
-		#but{
-			border-radius:8px;
-			background: #32A4D6;
-			color: #fff;
-			font-family: vazir;
-			font-size: 1.2em;
-			padding: 5px 5px;
-			cursor:pointer; margin: 0em auto 1em;
-			display: block;
-			min-width: 30%;
-			clear: both;}
-		
-		
-		iframe{
-			margin:0em auto 1em;
-			display: block;
-			position:relative; max-width: 100%;
-		}
-		
-	</style>
-	
-<link rel="prefetch"></head>
+        input[type="text"] {
+            width: 70%;
+            padding: 10px;
+            margin: 10px 0;
+            font-size: 1em;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
 
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .output {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .output input {
+            width: 70%;
+            padding: 10px;
+        }
+
+        #qrcode {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .input-group {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        /* استایل دکمه ها */
+        button {
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        button:active {
+            background-color: #3e8e41;
+        }
+
+        /* رنگ دکمه تبدیل */
+        .convert-btn {
+            background-color: #2196F3;
+        }
+
+        .convert-btn:hover {
+            background-color: #1976D2;
+        }
+
+        /* رنگ دکمه Paste */
+        .paste-btn {
+            background-color: #FF9800;
+        }
+
+        .paste-btn:hover {
+            background-color: #FB8C00;
+        }
+
+        /* رنگ دکمه کپی */
+        .copy-btn {
+            background-color: #F44336;
+        }
+
+        .copy-btn:hover {
+            background-color: #E53935;
+        }
+
+    </style>
+    <!-- کتابخانه QRCode.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script>
+        function convertLink() {
+            var inputLink = document.getElementById("driveLink").value;
+            var fileId = inputLink.match(/[-\w]{25,}/);
+            if (fileId) {
+                var directLink = "https://drive.google.com/uc?export=download&id=" + fileId[0];
+                document.getElementById("directLink").value = directLink;
+
+                // ساخت QR کد
+                var qrcodeContainer = document.getElementById("qrcode");
+                qrcodeContainer.innerHTML = ""; // پاک کردن QR کد قبلی
+                new QRCode(qrcodeContainer, {
+                    text: directLink,
+                    width: 128,
+                    height: 128,
+                    colorDark: "#333",
+                    colorLight: "#ffffff",
+                });
+            } else {
+                document.getElementById("directLink").value = "لینک معتبر نیست!";
+                document.getElementById("qrcode").innerHTML = ""; // پاک کردن QR کد در صورت نامعتبر بودن لینک
+            }
+        }
+
+        function copyToClipboard() {
+            var copyText = document.getElementById("directLink");
+            copyText.select();
+            copyText.setSelectionRange(0, 99999); // برای مرورگرهای موبایل
+            document.execCommand("copy");
+            alert("لینک کپی شد: " + copyText.value);
+        }
+
+        async function pasteFromClipboard() {
+            try {
+                const text = await navigator.clipboard.readText();
+                document.getElementById("driveLink").value = text;
+            } catch (err) {
+                alert("دسترسی به کلیپ‌بورد امکان‌پذیر نیست.");
+            }
+        }
+    </script>
+</head>
 <body>
-
-	
-	
-	<div class="block">
-
-		<p class="h3style">لینک درخواستی</p> 
-		
-		<label for="cde"></label> 
-		<input id="cde" onkeydown="if (event.keyCode == 13) $(&#39;but&#39;).click()" placeholder="link" type="text">
-		<br>
-		
-		<button id="but">تبدیل</button> 
-		
-		<p class="h3style">لینک دانلود مستقیم </p> 
-		
-		<label for="linkpaste"></label> 
-		<input id="linkpaste" readonly="" type="text">
-	
-	</div>
-	
-
-
-
-
-	<!--</body><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
-	<script src="./index_files/download.js.download" type="text/Javascript"></script>
-	
-	<script>
-	
-	function $(id){return document.getElementById(id);}
-	function generatelink(){
-		var add = $("cde").value;
-		var drive = add.indexOf("google.com/file/d/");
-		var dbox = add.indexOf("dropbox.com/s");
-		var odrive = add.indexOf("onedrive.live.com");
-	
-		if(drive != -1){var start = add.indexOf("d/");
-			var end = add.indexOf("/view");var reString = add.slice(start+2, end);
-			var link = "https://drive.google.com/uc?export=download&id="+reString+"";
-			$("linkpaste").value = link;
-			$("linkpaste"). select();
-			
-			document.execCommand('copy');
-		
-		}else if(dbox != -1){
-			var link = add.replace("?dl=0", "?dl=1");
-			$("linkpaste").value = link;
-			$("linkpaste"). select();
-			
-			document.execCommand('copy');
-			
-		}else if(odrive != -1){
-		
-			var link = add.replace(/.*src="(.*?)" w.*/g,'$1').replace("embed?", "download?");
-			$("linkpaste").value = link;
-			$("linkpaste"). select();
-			
-			document.execCommand('copy');
-		
-		}else{
-		
-			$("linkpaste").value = "لینک قابل قبول نیست.";
-		}}
-			
-		window.onload = function(){
-		
-			$("cde").focus();
-			$("but").onclick = generatelink;
-
-		};
-
-
-   
-	
-	</script>
- 
-
-
-
-  		
-</body></html>
-
-
-
-
-
-
-
----
-
-
-
-
-[remote](https://qtext.io/118)
-
-
-
-
-
-](https://drive.google.com/file/d/1xTpwIeqkWATnXezVtMidlQYrC9VfBdtK/view?usp=sharing)
+    <div class="container">
+        <h2>تبدیل لینک گوگل درایو به لینک مستقیم و QR کد</h2>
+        <label for="driveLink">لینک اشتراک‌گذاری گوگل درایو را وارد کنید:</label>
+        <div class="input-group">
+            <input type="text" id="driveLink" placeholder="https://drive.google.com/file/d/FILE_ID/view?usp=sharing">
+            <button class="paste-btn" onclick="pasteFromClipboard()">Paste</button>
+        </div>
+        <button class="convert-btn" onclick="convertLink()">تبدیل</button>
+        <div class="output">
+            <input type="text" id="directLink" readonly placeholder="لینک مستقیم اینجا نمایش داده می‌شود">
+            <button class="copy-btn" onclick="copyToClipboard()">کپی</button>
+        </div>
+        <div id="qrcode"></div> <!-- محلی برای نمایش QR کد -->
+    </div>
+</body>
+</html>
