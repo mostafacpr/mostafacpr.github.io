@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ذخیره لینک‌های متنی به فایل txt</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -49,7 +51,6 @@
 </head>
 <body>
     <div>
-        <h2>ذخیره لینک‌های متنی به فایل txt</h2>
         
         <!-- پنج ورودی برای لینک‌ها بدون متن راهنما -->
         <input type="text" id="textInput1" placeholder="لینک 1">
