@@ -1,9 +1,9 @@
-[
+<!DOCTYPE html>
 <html lang="fa">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>تبدیل لینک گوگل درایو به لینک مستقیم و QR کد</title>
+    <title>ذخیره لینک‌های متنی به فایل txt</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -11,18 +11,14 @@
             color: #333;
             text-align: center;
             padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 100vh;
         }
-
         h2 {
             color: #4CAF50;
         }
-
-        label {
-            display: block;
-            margin-top: 20px;
-            font-size: 1.1em;
-        }
-
         input[type="text"] {
             width: 70%;
             padding: 10px;
@@ -32,9 +28,7 @@
             border-radius: 5px;
             box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
         }
-
         button {
-            background-color: #4CAF50;
             color: white;
             border: none;
             padding: 10px 20px;
@@ -42,110 +36,66 @@
             cursor: pointer;
             border-radius: 5px;
             margin-top: 10px;
+            background-color: #2196F3;
             transition: background-color 0.3s ease;
         }
-
         button:hover {
-            background-color: #45a049;
+            background-color: #1976D2;
         }
-
-        button:active {
-            background-color: #3e8e41;
+        #saveButton {
+            width: 150px;
+            margin: 10px auto;
         }
-
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .output {
-            margin-top: 20px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .output input {
-            width: 70%;
-            padding: 10px;
-        }
-
-        #qrcode {
-            margin-top: 20px;
-        }
-
-        .input-group {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-        }
-
     </style>
-    <!-- کتابخانه QRCode.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>
+    <div>
+        <h2>ذخیره لینک‌های متنی به فایل txt</h2>
+        
+        <!-- پنج ورودی برای لینک‌ها بدون متن راهنما -->
+        <input type="text" id="textInput1" placeholder="لینک 1">
+        <input type="text" id="textInput2" placeholder="لینک 2">
+        <input type="text" id="textInput3" placeholder="لینک 3">
+        <input type="text" id="textInput4" placeholder="لینک 4">
+        <input type="text" id="textInput5" placeholder="لینک 5">
+    </div>
+
+    <div id="saveButton">
+        <button onclick="downloadFile()">ذخیره به عنوان فایل txt</button>
+    </div>
+
     <script>
-        function convertLink() {
-            var inputLink = document.getElementById("driveLink").value;
-            var fileId = inputLink.match(/[-\w]{25,}/);
-            if (fileId) {
-                var directLink = "https://drive.google.com/uc?export=download&id=" + fileId[0];
-                document.getElementById("directLink").value = directLink;
+        function downloadFile() {
+            // جمع آوری لینک‌ها از ورودی‌ها
+            const text1 = document.getElementById('textInput1').value;
+            const text2 = document.getElementById('textInput2').value;
+            const text3 = document.getElementById('textInput3').value;
+            const text4 = document.getElementById('textInput4').value;
+            const text5 = document.getElementById('textInput5').value;
 
-                // ساخت QR کد
-                var qrcodeContainer = document.getElementById("qrcode");
-                qrcodeContainer.innerHTML = ""; // پاک کردن QR کد قبلی
-                new QRCode(qrcodeContainer, {
-                    text: directLink,
-                    width: 128,
-                    height: 128,
-                    colorDark: "#333",
-                    colorLight: "#ffffff",
-                });
+            // ساخت متن برای فایل (هر لینک در یک خط)
+            const combinedText = `${text1}\n${text2}\n${text3}\n${text4}\n${text5}`;
+            
+            // پرسیدن نام فایل از کاربر
+            const fileName = prompt("لطفاً نام فایل را وارد کنید:", "links.txt");
+
+            // بررسی اینکه آیا کاربر نام فایل را وارد کرده است یا خیر
+            if (fileName) {
+                const blob = new Blob([combinedText], { type: 'text/plain' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = fileName.endsWith('.txt') ? fileName : fileName + '.txt'; // اطمینان از اینکه فایل با پسوند .txt ذخیره شود
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+
+                alert('فایل لینک‌های متنی ایجاد شد.');
             } else {
-                document.getElementById("directLink").value = "لینک معتبر نیست!";
-                document.getElementById("qrcode").innerHTML = ""; // پاک کردن QR کد در صورت نامعتبر بودن لینک
-            }
-        }
-
-        function copyToClipboard() {
-            var copyText = document.getElementById("directLink");
-            copyText.select();
-            copyText.setSelectionRange(0, 99999); // برای مرورگرهای موبایل
-            document.execCommand("copy");
-            alert("لینک کپی شد: " + copyText.value);
-        }
-
-        async function pasteFromClipboard() {
-            try {
-                const text = await navigator.clipboard.readText();
-                document.getElementById("driveLink").value = text;
-            } catch (err) {
-                alert("دسترسی به کلیپ‌بورد امکان‌پذیر نیست.");
+                alert("ذخیره لغو شد. شما نام فایل را وارد نکردید.");
             }
         }
     </script>
-</head>
-<body>
-    <div class="container">
-        <h2>تبدیل لینک گوگل درایو به لینک مستقیم و QR کد</h2>
-        <label for="driveLink">لینک اشتراک‌گذاری گوگل درایو را وارد کنید:</label>
-        <div class="input-group">
-            <input type="text" id="driveLink" placeholder="https://drive.google.com/file/d/FILE_ID/view?usp=sharing">
-            <button onclick="pasteFromClipboard()">Paste</button>
-        </div>
-        <button onclick="convertLink()">تبدیل</button>
-        <div class="output">
-            <input type="text" id="directLink" readonly placeholder="لینک مستقیم اینجا نمایش داده می‌شود">
-            <button onclick="copyToClipboard()">کپی</button>
-        </div>
-        <div id="qrcode"></div> <!-- محلی برای نمایش QR کد -->
-    </div>
 </body>
 </html>
-](https://drive.google.com/file/d/1xTpwIeqkWATnXezVtMidlQYrC9VfBdtK/view?usp=sharing)
