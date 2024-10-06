@@ -1,4 +1,3 @@
-
 <html lang="fa">
 <head>
     <meta charset="UTF-8">
@@ -60,6 +59,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            flex-direction: column;
         }
 
         .input-group {
@@ -112,6 +112,15 @@
             background-color: #E53935;
         }
 
+        /* استایل جای خالی */
+        #textAboveQR {
+            margin-top: 20px;
+            width: 20%; /* کاهش عرض به 20% */
+            padding: 5px; /* حفظ padding برای زیبایی */
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
     </style>
     <!-- کتابخانه QRCode.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
@@ -171,6 +180,7 @@
             <button class="copy-btn" onclick="copyToClipboard()">کپی</button>
         </div>
         <div id="qrcode"></div> <!-- محلی برای نمایش QR کد -->
+        <input type="text" id="textAboveQR" placeholder="متن خود را اینجا وارد کنید" style="margin-top: 20px; width: 20%; padding: 5px;">
     </div>
 </body>
 </html>
