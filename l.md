@@ -168,7 +168,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>تبدیل لینک گوگل درایو به لینک مستقیم و QR کد</h2>
+        <h2>Conertor</h2>
         <label for="driveLink">لینک اشتراک‌ گذاری گوگل درایو را وارد کنید:</label>
         <div class="input-group">
             <input type="text" id="driveLink" placeholder="https://drive.google.com/file/d/FILE_ID/view?usp=sharing">
