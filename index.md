@@ -53,6 +53,7 @@
 
 🟢[open login google account](intent://com.google.android.gsf.login.LoginActivity/#Intent;scheme=android-app;end)
 
+🟢[Open Quick Shortcut Maker](intent://com.sika524.android.quickshortcut/#Intent;scheme=android-app;end)
 
 ---
 
