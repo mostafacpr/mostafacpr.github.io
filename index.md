@@ -1,7 +1,8 @@
 
 
  **1 _  Hiddify →**  [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)+[1.1.](https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-Android-universal.apk)
- 🟠 [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 🟠 [Ios](https://testflight.apple.com/join/URrT6ZWm) 🟠 [🎥](h.md)
+ 🟠 [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 🟠 [*IOS*](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532) 
+ 🟠 [🎥](h.md)
 
 
 
