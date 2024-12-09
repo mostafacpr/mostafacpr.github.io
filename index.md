@@ -1,4 +1,4 @@
-
+https://github.com/2dust/v2rayNG/releases/download/1.9.22/v2rayNG_1.9.22_universal.apk
 
  **1 _  Hiddify →**  [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)+[1.1.](https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-Android-universal.apk)
  🟠 [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 🟠 [*IOS*](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532) 
@@ -17,7 +17,7 @@
 
 .......................................................................
 
- **4 _  V2rayNg →**  [Android](https://github.com/2dust/v2rayNG/releases/download/1.8.25/v2rayNG_1.8.25_arm64-v8a.apk)⚪[old](https://github.com/2dust/v2rayNG/releases/download/1.8.17/v2rayNG_1.8.17.apk) ⚪ [github](https://github.com/2dust/v2rayNG/releases/latest)  ⚪ [🎥](v.md)
+ **4 _  V2rayNg →**  [Android](https://github.com/2dust/v2rayNG/releases/download/1.9.22/v2rayNG_1.9.22_universal.apk)⚪[old](https://github.com/2dust/v2rayNG/releases/download/1.8.17/v2rayNG_1.8.17.apk) ⚪ [github](https://github.com/2dust/v2rayNG/releases/latest)  ⚪ [🎥](v.md)
 
  ......................................................................
 
